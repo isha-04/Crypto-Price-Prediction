@@ -1,5 +1,4 @@
 # Crypto-Price-Prediction
-Predicting the price for Bitcoin for 30 days in the future
 
 In today’s emerging world, cryptocurrency has evolved and grown to great extents and understanding such complex trends is extremely difficult and unpredictable. Therefore, analysis of cryptocurrency with precise predictions is important to keep up with the developing industry. In this project we aim to forecast the closing price of cryptocurrencies.
 
